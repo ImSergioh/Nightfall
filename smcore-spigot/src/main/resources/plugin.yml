@@ -1,0 +1,5 @@
+name: SMCore
+version: '${project.version}'
+main: me.imsergioh.smcore.SMCore
+authors: [ ImSergioh ]
+description: SMCore for Lobbies and sublobbies

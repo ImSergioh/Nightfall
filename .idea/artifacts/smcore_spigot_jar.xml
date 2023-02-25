@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="smcore-spigot:jar">
+    <output-path>$PROJECT_DIR$/../../!JARDIR</output-path>
+    <root id="archive" name="smcore-spigot.jar">
+      <element id="module-output" name="smcore" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../SBackend/out/artifacts/SBackendClient_jar/SBackendClient.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

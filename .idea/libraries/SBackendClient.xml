@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBackendClient">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../SBackend/out/artifacts/SBackendClient_jar/SBackendClient.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
